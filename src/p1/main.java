@@ -30,5 +30,7 @@ public class main {
         System.out.println();
         int poz = Arrays.binarySearch(judete, judet_cautat);
         System.out.println("Judetul cautat se afla pe pozitia: " + poz);
+
+
     }
 }
