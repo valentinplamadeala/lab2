@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="386fc4c1-acd1-461b-b943-a8abb823a818" name="Changes" comment="lab2">
+    <list default="true" id="386fc4c1-acd1-461b-b943-a8abb823a818" name="Changes" comment="al 2 lea commit">
+      <change afterPath="$PROJECT_DIR$/src/p2/cantec_in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p2/main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/judete_in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/judete_in.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p1/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,12 +78,20 @@
       <option name="project" value="LOCAL" />
       <updated>1709190390811</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="al 2 lea commit">
+      <created>1709190440264</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709190440264</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab2" />
+    <MESSAGE value="al 2 lea commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="al 2 lea commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
