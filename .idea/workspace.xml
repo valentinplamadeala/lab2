@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="386fc4c1-acd1-461b-b943-a8abb823a818" name="Changes" comment="al 3 lea commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p1/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2/cantec_in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2/cantec_in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2/main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2/mainapp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709209559830</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="al 3 lea commit">
+      <created>1709211558737</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709211558737</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
